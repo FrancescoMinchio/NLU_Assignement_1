@@ -2,7 +2,8 @@
 
 1st and 2st assignments for NLU course 2020/2021 at DISI - UNITN.
 
-STUDENT: Francesco MINCHIO
+STUDENT: Francesco Minchio
+
 ID: 225269
 
 Submission structure:
