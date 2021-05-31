@@ -1,6 +1,6 @@
 # NLU_Assignements
 
-1st assignment for NLU course 2020-21 at UniTrento.
+1st assignment for NLU course 2020/2021 at DISI - UNITN.
 
 STUDENT: Francesco MINCHIO
 ID: 225269
