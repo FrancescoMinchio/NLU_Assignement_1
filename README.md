@@ -1,1 +1,15 @@
 # NLU_Assignements
+
+1st assignment for NLU course 2020-21 at UniTrento.
+
+STUDENT: Francesco MINCHIO
+ID: 225269
+
+Submission structure:
+
+"Assignement_1": the code which contains all 5.py questions.
+"Report_1": the directory which contains the project report & comments.
+Software requirements:
+
+The assignment is implemented in Phyton by using Colab which is dividend in "Code" and "Result" sections.
+
