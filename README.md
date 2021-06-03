@@ -10,7 +10,7 @@ Submission structure:
 
 - "Assignement_1": the code which contains all 5.py questions.
 - "Report_1": the directory which contains the project report & comments.
-- "Assignement_2": the code which contains ......
+- "Assignement_2": the code which contains 3 tasks.
 - "Report_2": the directory which contains the project report & comments.
 
 
